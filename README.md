@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Jenny Barefoot.
-#### I am currently a student taking classes for Frontend and Backend.
-![I am currently a student taking classes for Frontend and Backend.](https://github.com/JenBarefoot/JenBarefoot/blob/main/aboutme.png)
+#### I am currently a student taking classes for Frontend.
+![I am currently a student taking classes for Frontend Developer.](https://github.com/JenBarefoot/JenBarefoot/blob/main/aboutme.png)
 
 I am a mom who strives to do be the best example for my girls. I have taken Graphic Design classes in the past. I enjoy doing vector art!
 
