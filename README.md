@@ -30,3 +30,4 @@ Skills:  / HTML / CSS/ InD/ Ai
   
 
 <img src="https://github.com/JenBarefoot/JenBarefoot/blob/main/dino.gif">
+https://github.com/JenBarefoot/chess-players.git
